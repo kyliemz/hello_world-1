@@ -1,4 +1,4 @@
-
+# Hi Dr. Patrick
 class ClassifyingNumbers:
     
     def __init__(self, number, propers=[]):
